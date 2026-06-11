@@ -1,0 +1,21 @@
+{
+  "name": "phaross",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@elfa-ai/sdk": "^2.3.4",
+    "@langchain/core": "^1.1.48",
+    "dotenv": "^17.4.2",
+    "jest": "^30.4.2",
+    "pharos-agent-kit": "^1.0.2",
+    "viem": "^2.52.2",
+    "zod": "^4.4.3"
+  }
+}
